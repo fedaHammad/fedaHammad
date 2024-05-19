@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Design, Dashboard Design and programming**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=sharing](click)
+- 👨‍💻 All of my projects are available at [Click here](https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=sharing)
 
 - 💬 Ask me about **Dashboard Design**
 
