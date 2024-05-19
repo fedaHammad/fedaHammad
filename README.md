@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Feda Hammad</h1>
 <h3 align="center">A passionate frontend developer from Jordan</h3>
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 I’m currently working on [Seagull Technology](https://www.seagull-technology.com/)
 
 - 🌱 I’m currently learning **Vue ,figma**
@@ -8,8 +12,7 @@
 - 👯 I’m looking to collaborate on **Design, programming and marketing projects**
 
 - 📫 How to reach me **fedaa.hamad93@gmail.com**
-  <img  align="center"  src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
-  <br></br>
+
 
     
 <h3 align="left">Connect with me:</h3>
