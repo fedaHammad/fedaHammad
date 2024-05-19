@@ -5,12 +5,13 @@
 <br>
 <br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/90/5d/35/905d3541a70f52c094b4faf1fe50e98e.gif" width="300"/>
-
+<br>
+<br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/90/5d/35/905d3541a70f52c094b4faf1fe50e98e.gif" width="300"/>
  
 </div>
 
-
+<div>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on [Seagull Technology](https://www.seagull-technology.com/)
@@ -24,7 +25,7 @@
 - 💬 Ask me about **Dashboard Design**
 
 - 📫 How to reach me **fedaa.hamad93@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/feda-hammad-940525116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feda-hammad-940525116" height="30" width="40" /></a>
