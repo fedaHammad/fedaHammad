@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Vue ,figma**
 
-- 👯 I’m looking to collaborate on [Web Design, Dashboard Design and programming](https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=drive_link)
+- 👯 I’m looking to collaborate on **Web Design, Dashboard Design and programming**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=drive_link](https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=sharing](click)
 
 - 💬 Ask me about **Dashboard Design**
 
