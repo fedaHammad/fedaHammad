@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue ,figma**
 
-- 👯 I’m looking to collaborate on **Design, programming and marketing projects**
+- 👯 I’m looking to collaborate on **Web Design, Dashboard Design and programming **
 
 - 📫 How to reach me **fedaa.hamad93@gmail.com**
 
