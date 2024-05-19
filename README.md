@@ -9,14 +9,18 @@
 
 - 🌱 I’m currently learning **Vue ,figma**
 
-- 👯 I’m looking to collaborate on **Web Design, Dashboard Design and programming **
+- 👯 I’m looking to collaborate on [Web Design, Dashboard Design and programming](https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=drive_link)
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=drive_link](https://drive.google.com/drive/folders/1N9H73O8CLTS-RW65Z4G3hd7-lm9IUPzb?usp=drive_link)
+
+- 💬 Ask me about **Dashboard Design**
 
 - 📫 How to reach me **fedaa.hamad93@gmail.com**
 
-
-    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/feda-hammad-940525116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feda-hammad-940525116" height="30" width="40" /></a>
+<a href="https://fb.com/feda.hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="feda.hammad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
