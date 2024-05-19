@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on **Design, programming and marketing projects**
 
 - 📫 How to reach me **fedaa.hamad93@gmail.com**
-
+  <img  align="center"  src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
+  <br></br>
 
     
 <h3 align="left">Connect with me:</h3>
