@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Feda Hammad</h1>
 <h3 >A passionate frontend developer from Jordan</h3>
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="300"/>
-<br>
-<br>
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/90/5d/35/905d3541a70f52c094b4faf1fe50e98e.gif" width="300"/>
 
 
