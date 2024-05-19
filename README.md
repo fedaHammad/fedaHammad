@@ -12,7 +12,7 @@
 </div>
 
 <div>
- ![](https://i.pinimg.com/originals/90/5d/35/905d3541a70f52c094b4faf1fe50e98e.gif)
+<br><br>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on [Seagull Technology](https://www.seagull-technology.com/)
