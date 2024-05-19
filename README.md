@@ -21,7 +21,7 @@
 - 📫 How to reach me **fedaa.hamad93@gmail.com**
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="300"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/feda-hammad-940525116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feda-hammad-940525116" height="30" width="40" /></a>
